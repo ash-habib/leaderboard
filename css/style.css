@@ -165,7 +165,7 @@ nav a {
     margin-right: 5px;
 }
 @media (max-width:688px) {
-    .nvabar,.container {
+    .navbar,.container {
         width: 100%;
     }
     .section-title {
